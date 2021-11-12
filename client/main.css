@@ -2,3 +2,13 @@ body {
   padding: 10px;
   font-family: sans-serif;
 }
+
+.employee-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 300px;
+}
